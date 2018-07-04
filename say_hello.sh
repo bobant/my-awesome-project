@@ -1,1 +1,1 @@
-echo "Hello Effective Jenkins from Github!"
+echo "Hello Jenkins from Github!"
